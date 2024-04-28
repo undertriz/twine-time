@@ -1,0 +1,208 @@
+:: StoryTitle
+Tescos Nightmare
+
+
+:: StoryData
+{
+  "ifid": "BCF0E6D6-15AD-4E51-8FDC-7052AF234901",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: A Basket {"position":"900,300","size":"100,100"}
+You enter the store, but will it be enough to hold the amount of items you will require?
+
+//[[A trolley]] Might be good enough, Actually...//
+//[[Yes]], It will...//
+
+
+:: A trolley {"position":"900,400","size":"100,100"}
+You enter a store, but you feel slight discomfort whilst gribbing the handle of the trolley. Will it be good enough?
+
+[[Nah]], I'll go empty handed.
+[[Sure]], It'll be quick.
+
+
+:: Affirmitive {"position":"1900,300","size":"100,100"}
+//FIFTH ITEM//
+
+Get a Tesco-Mobile Iphone 11?
+
+[[Uhm, sure...]]
+[[GOD NO.]]
+
+
+:: Basket {"position":"1800,100","size":"100,100"}
+You look to see where you left your basket. you search throuh the entire store just to look.
+
+//I, Carl, am [[without]] a doubt that i left my basket somewhere...//
+
+
+:: Credits {"position":"700,500","size":"100,100"}
+''Game made by Undertrizþ''
+
+Manufactured using Twine™
+
+//Development ideas soon to be made with a discord company//
+
+
+
+
+
+//Cant Catch Em' All// ¯\_( ͡° ͜ʖ ͡°)_/¯
+
+
+:: Fine. {"position":"800,0","size":"100,100"}
+(text-color:red)[''YOU DIED'']
+
+[[Start]]
+
+(text-colour:red)[Don't you remember?
+You were on a diet, Silly!]
+
+
+:: GOD NO. {"position":"1900,500","size":"100,100"}
+You ignore the item, as it's not what you want.
+
+[[Indeed...]] 
+
+
+:: I... {"position":"1700,300","size":"100,100"}
+//FOURTH ITEM//
+
+Take a can of beans?
+
+[[Affirmitive]]
+[[Fine.]] Physch!
+
+
+:: Indeed... {"position":"2100,300","size":"100,100"}
+You leave to get more items in the opposite Aisle, But you were there for 4 minutes. You forgot if you had a trolley.
+
+I think i had a [[Trolley]].
+I think i had a [[Basket]].
+You know, i think i can go [[without]].
+
+
+:: Nah {"position":"900,200","size":"100,100"}
+You enter the store, But you have many items to aquire. 
+
+[[Okay...]]
+
+
+:: Nah. {"position":"1300,500","size":"100,100"}
+You ignore the item, as it's not what you want.
+
+[[Okay]]
+
+
+:: Nope. {"position":"1500,500","size":"100,100"}
+You ignore the item, as it's not what you want.
+
+[[Sure...]]
+
+
+:: Okay {"position":"1300,300","size":"100,100"}
+//SECOND ITEM//
+
+Take a stone-baked pizza?
+
+[[Fine.]]
+[[Nope.]]
+
+
+:: Okay... {"position":"600,0","size":"100,100"}
+(text-colour:red)[''YOU DIED'']
+
+[[Start]] 
+
+(text-color:red)[You went and got 5 items without any help, wielding nothing but your hands. You attempt to get the 6th item, but you dropped the can of soup, opening the tin, spilling all the soup, making you slip and finally putting you into a permanent coma as you bashed your head open on the floor.]
+
+
+:: Rules {"position":"600,500","size":"100,100"}
+1. No clicking "Back" Buttons
+2. Be honest
+3. Have fun!
+
+
+:: Start {"position":"600,300","size":"200,200"}
+//You arrive at Tescos in a black Honda CR-V.//
+
+(text-color:lime)[Johnny Carlson], A middle-class citizen, exits his car. he goes to the store entrance, with heater fans blowing his hair from above. He then gets a:
+
+[[A Basket]]
+[[A trolley]]
+[[Nah]]
+
+------------------------------------------------------------------------------------------------------
+| [[Rules]]                                                                                                                                |
+| [[Credits]]                                                                                                                             | 
+------------------------------------------------------------------------------------------------------ 
+
+
+:: Sure {"position":"1100,300","size":"100,100"}
+//FIRST ITEM//
+
+Take a can of soup?
+
+[[Okay]]
+[[Nah.]]
+
+
+:: Sure... {"position":"1500,300","size":"100,100"}
+//THIRD ITEM//
+
+Take a 23kg bag of dog food?
+
+[[Uhm, Ok...]]
+[[Why?]]
+
+
+:: Trolley {"position":"2300,300","size":"100,100"}
+You searched for 2 and a half minutes finding your trolley, and you successfully located it!
+
+Let's [[continue]]...
+
+
+:: Uhm, Ok... {"position":"900,0","size":"100,100"}
+(text-colour:red)[''YOU DIED'']
+
+[[Start]] 
+
+(text-colour:red)[You don't have a dog. All that unnessesary weight broke your back.]
+
+
+
+:: Uhm, sure... {"position":"1000,0","size":"100,100"}
+(text-colour:red)[''YOU DIED'']
+
+[[Start]] 
+
+(text-colour:red)[Your Iphone 11's Lithium Ion battery explodes. See, this is what happens when you visit tesco mobile, they're so unreliable.]
+
+
+:: Why? {"position":"1700,500","size":"100,100"}
+You ignore the item, As it's not what you want.
+
+[[I...]]
+
+
+:: Yes {"position":"700,0","size":"100,100"}
+(text-colour:red)["YOU DIED"]
+
+[[Start]] 
+
+(text-colour:red)[You managed to get about 18 items, but you became fatigued after taking onboard large amounts of weight. You fell asleep, but in the meantime, a shelf toppled over and squished you flat.]
+
+
+:: continue {"position":"2500,300","size":"100,100"}
+
+
+
+:: without {"position":"1500,100","size":"100,100"}
+You then realise, after 5 minutes of searching, you had a trolley, but it's too late. People stole from your trolley. You grab another trolley, and the process begins again...
+
+[[Sure]]... 
